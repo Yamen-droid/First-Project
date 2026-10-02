@@ -55,5 +55,8 @@ All database queries use parameterized queries.
 
 ## Project Demo Video
 
-[Watch the Expense Tracker Demo]
-https://drive.google.com/file/d/1unuSjv2xK4W1kd85cEAmptqMpjpB5CK0/view?usp=sharing
+[Watch the Expense Tracker Demo](https://drive.google.com/file/d/1unuSjv2xK4W1kd85cEAmptqMpjpB5CK0/view?usp=sharing)
+
+## GitHub Repository
+
+[View Expense Tracker on GitHub](https://github.com/Yamen-droid/First-Project)
